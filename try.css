@@ -1,4 +1,7 @@
-
+h1{
+  color: wheat;
+  border-bottom: 5px solid white;
+} 
 .btn {
   width: 100px;
   height: 30px;
